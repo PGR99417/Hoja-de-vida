@@ -1,4 +1,30 @@
 #hojaDeVida {
-    background-color: cadetblue;
+    background-color: #50858b;
     text-align: center;
+}
+
+#datosPersonal {
+    background-color: #5497a7;
+    text-align: center;
+}
+
+#descripcion {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    background-color: #62a8ac;
+    text-align: center;
+}
+
+#experiencia  {
+    background-color: #78CAD2;
+    text-align: center;
+}
+
+#cursos {
+    background-color: #a1d2ce;
+    text-align: center;
+}
+
+#referencias {
+    background-color: paleturquoise;
 }
